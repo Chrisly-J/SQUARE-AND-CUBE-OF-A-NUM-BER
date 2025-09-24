@@ -30,7 +30,8 @@ To write and execute an Assembly language program for finding the square of a gi
 ```
 
 ## OUTPUT
-<img width="450" height="450" alt="Screenshot 2025-09-24 155443" src="https://github.com/user-attachments/assets/1a058db8-6679-4d6f-9113-9f670e3d3da4" />
+<img width="450" height="450" alt="Screenshot 2025-09-24 155443" src="https://github.com/user-attachments/assets/24d7f57e-750d-4a8c-952f-8e41e78000c2" />
+
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
